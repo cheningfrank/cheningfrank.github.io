@@ -2,5 +2,7 @@
     "title":"blog of asleep fox",
     "subTitle":"asleep fox",
     "avatarUrl":"https://raw.githubusercontent.com/cheningfrank/cheningfrank.github.io/refs/heads/main/airchina.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
