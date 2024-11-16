@@ -1,6 +1,6 @@
 # just for the test
 the first blog powered by gmeek
-<details>
+`Gmeek-html<details>
   <summary style="font-size:16px; font-weight:bold; color:#d9534f; cursor:pointer;">
     Caution
   </summary>
@@ -8,4 +8,4 @@ the first blog powered by gmeek
     请注意操作的正确性！错误的配置可能导致系统崩溃或无法正常运行。<br>
     修改配置文件前，请务必备份重要数据，确保可以还原。
   </div>
-</details>
+</details>`
