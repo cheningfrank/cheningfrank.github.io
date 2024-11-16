@@ -4,5 +4,5 @@
     "avatarUrl":"https://raw.githubusercontent.com/cheningfrank/cheningfrank.github.io/refs/heads/main/airchina.svg",
     "GMEEK_VERSION":"last",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'><script src='https://blog.liyifan.xyz/assets/yifantheme_index.js'></script></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
